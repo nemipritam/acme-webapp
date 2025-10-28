@@ -1,0 +1,8 @@
+# Codeowners file for acme-webapp
+# This file specifies the individuals or teams that are responsible for code in this repository
+
+# Frontend team reviews all files in src directory
+/ys** @frontend-team
+
+# Docs team reviews all files in docs directory
+/docs/** @docs-team
